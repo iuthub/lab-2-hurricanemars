@@ -16,7 +16,15 @@ p {
 }
 ol{list-style-type: square;}
 
+a {
+  color: Black;
+  text-decoration: none;
+  text-transform: uppercase;
+}
 
+a:hover {
+  color: yellow;
+}
 
 .attrs{
 	color:red;
